@@ -1,0 +1,10 @@
+C:\Users\Samsung\source\repos\cinema\cinema\bin\Debug\cinema.exe.config
+C:\Users\Samsung\source\repos\cinema\cinema\bin\Debug\cinema.exe
+C:\Users\Samsung\source\repos\cinema\cinema\bin\Debug\cinema.pdb
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.csprojResolveAssemblyReference.cache
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.Form1.resources
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.Properties.Resources.resources
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.csproj.GenerateResource.cache
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.csproj.CoreCompileInputs.cache
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.exe
+C:\Users\Samsung\source\repos\cinema\cinema\obj\Debug\cinema.pdb
